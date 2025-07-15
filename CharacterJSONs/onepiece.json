@@ -1,1 +1,932 @@
-{"status":200,"body":[{"id":1,"name":"Monkey D. Luffy","epithet":"Straw Hat Luffy","crew":"Straw Hat Pirates","position":"Captain","origin":"East Blue","hometown":"Foosha Village","devilFruit":{"name":"Gomu Gomu no Mi","type":"Paramecia","englishName":"Gum-Gum Fruit"},"bounty":"3,000,000,000 berries","age":19,"birthday":"May 5th","height":"174 cm","bloodType":"F","status":"Alive","fighting_style":["Devil Fruit Combat","Haki"],"haki":["Armament Haki","Observation Haki","Conqueror's Haki"],"techniques":["Gum-Gum Pistol","Gum-Gum Gatling","Gear Second","Gear Third","Gear Fourth: Boundman","Gear Fourth: Tankman","Gear Fourth: Snakeman","Gear Fifth"],"family":["Monkey D. Garp (Grandfather)","Monkey D. Dragon (Father)","Portgas D. Ace (Sworn Brother)","Sabo (Sworn Brother)"],"personality":"Carefree, determined, loyal, and adventurous. Known for his infectious optimism and strong sense of justice.","dream":"To become the Pirate King and find the One Piece","allies":["Red-Haired Shanks","Trafalgar Law","Jinbe","Boa Hancock"],"enemies":["Marshall D. Teach","Akainu","Big Mom","Kaido","World Government"],"weapons":["Fists","Straw Hat (symbolic)"],"background":"Inspired by Red-Haired Shanks to become a pirate, Luffy sets out to sea to find the legendary treasure One Piece.","achievements":["Defeated Crocodile in Alabasta","Declared war on the World Government at Enies Lobby","Defeated Gecko Moria at Thriller Bark","Participated in the Marineford War","Defeated Charlotte Katakuri","Defeated Kaido in Wano","Became a Yonko"],"hobbies":"Eating, sleeping, adventure","quotes":["I'm gonna be King of the Pirates!","A man's dream will never die!","I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King!"],"appearance":"Black hair, round black eyes, signature straw hat, red vest, blue shorts, and sandals.","weaknesses":["Sea water","Sea-Prism Stone","Extremely naive"],"voice_actor":{"japanese":"Mayumi Tanaka","english":"Colleen Clinkenbeard"},"first_appearance":"Chapter 1","laugh":"Shishishi"},{"id":2,"name":"Roronoa Zoro","epithet":"Pirate Hunter Zoro","crew":"Straw Hat Pirates","position":"Combatant/Swordsman","origin":"East Blue","hometown":"Shimotsuki Village","devilFruit":null,"bounty":"1,111,000,000 berries","age":21,"birthday":"November 11th","height":"181 cm","bloodType":"XF","status":"Alive","fighting_style":["Three Sword Style","Haki"],"haki":["Armament Haki","Observation Haki","Conqueror's Haki"],"techniques":["Santoryu Ogi: Sanzen Sekai","Kyutoryu: Asura","Ittoryu Iai: Shishi Sonson","Nitoryu Iai: Rashomon","King of Hell Three Sword Style"],"family":["Shimotsuki Kozaburo (Great-Great-Grandfather)","Shimotsuki Ushimaru (Father, deceased)"],"personality":"Serious, determined, and loyal. Has a terrible sense of direction but unwavering dedication to his dream.","dream":"To become the world's greatest swordsman","allies":["Dracule Mihawk","Perona","Shimotsuki Yasuie"],"enemies":["Dracule Mihawk (rival)","King the Wildfire","Mr. 1"],"weapons":["Wado Ichimonji (Great Grade)","Sandai Kitetsu (Grade)","Enma (Great Grade)"],"background":"After his childhood friend Kuina died, Zoro vowed to become the world's greatest swordsman and carry on her dream as well.","achievements":["Defeated 100 bounty hunters at Whisky Peak","Cut through steel against Mr. 1","Survived Kuma's pain bubble from Luffy","Defeated King the Wildfire","Unlocked Conqueror's Haki"],"hobbies":"Training, sleeping, drinking sake","quotes":["I'm going to be the world's greatest swordsman! All I have left is my destiny! My name may be infamous...but it's gonna shake the world!","Nothing happened.","If I can't even protect my captain's dream, then whatever ambition I have is nothing but talk!"],"appearance":"Green hair, black bandana, muscular build, three earrings on left ear, scar over left eye.","weaknesses":["Terrible sense of direction","Alcohol tolerance"],"voice_actor":{"japanese":"Kazuya Nakai","english":"Christopher Sabat"},"first_appearance":"Chapter 3","laugh":"N/A"},{"id":3,"name":"Nami","epithet":"Cat Burglar Nami","crew":"Straw Hat Pirates","position":"Navigator","origin":"East Blue","hometown":"Cocoyasi Village","devilFruit":null,"bounty":"366,000,000 berries","age":20,"birthday":"July 3rd","height":"170 cm","bloodType":"X","status":"Alive","fighting_style":["Clima-Tact Combat","Weather Manipulation"],"haki":null,"techniques":["Thunder Lance Tempo","Mirage Tempo","Thunder Breed Tempo","Zeus Breeze Tempo"],"family":["Bellemere (Adoptive Mother, deceased)","Nojiko (Adoptive Sister)"],"personality":"Greedy, intelligent, and caring. Excellent at navigation and weather prediction.","dream":"To draw a complete map of the world","allies":["Zeus (Homie)","Vivi","Shirahoshi"],"enemies":["Arlong","Enel","Big Mom"],"weapons":["Clima-Tact","Perfect Clima-Tact","Sorcery Clima-Tact"],"background":"Former thief who stole from pirates to buy back her village from the Arlong Pirates.","achievements":["Freed Cocoyasi Village from Arlong","Navigated through the Grand Line","Defeated Kalifa with Mirage Tempo","Tamed Zeus as her partner"],"hobbies":"Drawing maps, shopping, taking care of tangerine trees","quotes":["I want to draw a map of the entire world!","Happiness punch!","Money is the best thing in the world!"],"appearance":"Orange hair, brown eyes, often wears revealing outfits, has a tattoo on her left shoulder.","weaknesses":["Physical combat without weapons","Greed"],"voice_actor":{"japanese":"Akemi Okamura","english":"Luci Christian"},"first_appearance":"Chapter 8","laugh":"N/A"},{"id":4,"name":"Usopp","epithet":"God Usopp","crew":"Straw Hat Pirates","position":"Sniper","origin":"East Blue","hometown":"Syrup Village","devilFruit":null,"bounty":"500,000,000 berries","age":19,"birthday":"April 1st","height":"176 cm","bloodType":"S","status":"Alive","fighting_style":["Sniping","Trickery","Pop Greens"],"haki":["Observation Haki"],"techniques":["Usopp Hammer","Exploding Star","Green Star: Devil","Special Attack: Humandrake"],"family":["Yasopp (Father)","Banchina (Mother, deceased)"],"personality":"Cowardly but brave when needed, creative, and a natural storyteller. Known for his elaborate lies.","dream":"To become a brave warrior of the sea","allies":["Kaya","Going Merry (ship)","Heracles"],"enemies":["Kuro","Mr. 4 and Miss Merry Christmas","Perona"],"weapons":["Kuro Kabuto","Kabuto","Black Kabuto","Pop Greens"],"background":"Son of the Red Hair Pirates' sniper Yasopp, grew up telling tall tales in his village.","achievements":["Defeated Daddy Masterson in a duel","Sniped the World Government flag at Enies Lobby","Defeated Sugar and Trebol in Dressrosa","Became known as 'God Usopp'"],"hobbies":"Inventing, telling stories, fishing","quotes":["I've got 8,000 followers!","I am the sniper king!","A man should never make a woman walk alone at night!"],"appearance":"Long black curly hair, long nose, tan skin, goggles on forehead.","weaknesses":["Cowardice","Physical strength","Tendency to lie"],"voice_actor":{"japanese":"Kappei Yamaguchi","english":"Sonny Strait"},"first_appearance":"Chapter 23","laugh":"N/A"},{"id":5,"name":"Sanji","epithet":"Black Leg Sanji","crew":"Straw Hat Pirates","position":"Cook","origin":"North Blue","hometown":"Germa Kingdom","devilFruit":null,"bounty":"1,032,000,000 berries","age":21,"birthday":"March 2nd","height":"180 cm","bloodType":"S RH-","status":"Alive","fighting_style":["Black Leg Style","Haki","Germa Technology"],"haki":["Armament Haki","Observation Haki"],"techniques":["Diable Jambe","Hell Memories","Ifrit Jambe","Sky Walk","Blue Walk"],"family":["Vinsmoke Judge (Father)","Vinsmoke Sora (Mother, deceased)","Vinsmoke Reiju (Sister)","Vinsmoke Ichiji (Brother)","Vinsmoke Niji (Brother)","Vinsmoke Yonji (Brother)","Zeff (Surrogate Father)"],"personality":"Chivalrous, passionate, and perverted. Never hits women and has an unwavering dedication to cooking.","dream":"To find the All Blue, a legendary sea where all fish from every ocean gather","allies":["Zeff","Viola","Pudding"],"enemies":["Vinsmoke Judge","Queen the Plague","Absalom"],"weapons":["Legs/Kicks","Raid Suit (formerly)"],"background":"Third son of the Vinsmoke family, raised by pirate chef Zeff after being stranded on a rock.","achievements":["Saved Luffy from starvation","Infiltrated Enies Lobby","Survived Big Mom's territory","Defeated Queen the Plague","Awakened Germa modifications"],"hobbies":"Cooking, smoking, flirting with women","quotes":["I'll never kick a woman, even if it means my death!","A cook's hands are his life!","All Blue... it has to exist!"],"appearance":"Blonde hair covering right eye, goatee, black suit, often smoking cigarettes.","weaknesses":["Cannot hit women","Nosebleeds around beautiful women"],"voice_actor":{"japanese":"Hiroaki Hirata","english":"Eric Vale"},"first_appearance":"Chapter 43","laugh":"N/A"},{"id":6,"name":"Tony Tony Chopper","epithet":"Cotton Candy Lover Chopper","crew":"Straw Hat Pirates","position":"Doctor","origin":"Grand Line","hometown":"Drum Island","devilFruit":{"name":"Hito Hito no Mi","type":"Zoan","englishName":"Human-Human Fruit"},"bounty":"1,000 berries","age":17,"birthday":"December 24th","height":"90 cm","bloodType":"X","status":"Alive","fighting_style":["Zoan Transformations","Medical Combat"],"haki":null,"techniques":["Rumble Ball","Horn Point","Heavy Point","Guard Point","Kung Fu Point","Monster Point"],"family":["Dr. Hiriluk (Adoptive Father, deceased)","Dr. Kureha (Teacher/Mother Figure)"],"personality":"Innocent, kind-hearted, and easily fooled. Dedicated to helping others as a doctor.","dream":"To become a doctor capable of curing any disease","allies":["Dr. Kureha","Dalton","Milky"],"enemies":["Wapol","Queen the Plague"],"weapons":["Rumble Ball","Medical knowledge"],"background":"A reindeer who ate the Human-Human Fruit, trained as a doctor by Dr. Hiriluk and Dr. Kureha.","achievements":["Helped liberate Drum Island","Developed antidotes for various poisons","Mastered Monster Point control","Created antibodies for Queen's viruses"],"hobbies":"Studying medicine, eating cotton candy, dancing","quotes":["I'm not a tanuki! I'm a reindeer!","When do people die? When they're shot through the heart with a pistol? No... It's when they're forgotten!","Even if I'm weak, there are things I can protect!"],"appearance":"Small blue-nosed reindeer, pink hat, often walks on hind legs.","weaknesses":["Rumble Ball side effects","Physical weakness in Brain Point"],"voice_actor":{"japanese":"Ikue Otani","english":"Brina Palencia"},"first_appearance":"Chapter 134","laugh":"N/A"},{"id":7,"name":"Nico Robin","epithet":"Devil Child Robin","crew":"Straw Hat Pirates","position":"Archaeologist","origin":"West Blue","hometown":"Ohara","devilFruit":{"name":"Hana Hana no Mi","type":"Paramecia","englishName":"Flower-Flower Fruit"},"bounty":"930,000,000 berries","age":30,"birthday":"February 6th","height":"188 cm","bloodType":"S","status":"Alive","fighting_style":["Devil Fruit Combat","Assassination techniques"],"haki":["Armament Haki","Observation Haki"],"techniques":["Mil Fleur: Gigantesco Mano","Demonio Fleur","Clutch","Spider Net"],"family":["Nico Olvia (Mother, deceased)","Professor Clover (Surrogate Father, deceased)"],"personality":"Calm, intelligent, and mysterious. Often makes morbid observations but deeply cares for her friends.","dream":"To find the Rio Poneglyph and learn the true history of the world","allies":["Jaguar D. Saul (deceased)","Crocodile (formerly)","Revolutionary Army"],"enemies":["World Government","CP9","Spandam"],"weapons":["Devil Fruit powers","Archaeological knowledge"],"background":"Last survivor of Ohara, hunted by the World Government for her ability to read Poneglyphs.","achievements":["Only person alive who can read Poneglyphs","Survived the Ohara Incident","Helped uncover Alabasta's history","Declared war on the World Government"],"hobbies":"Reading, archaeology, studying history","quotes":["I want to live!","The scholars of Ohara taught me that no matter how difficult the research, you must never give up.","History is written by the victors, but the truth will always remain."],"appearance":"Long black hair, blue eyes, tall and slender, often wears dark clothing.","weaknesses":["Sea water","Sea-Prism Stone","Emotional trauma"],"voice_actor":{"japanese":"Yuriko Yamaguchi","english":"Stephanie Young"},"first_appearance":"Chapter 114","laugh":"Dereshishi"},{"id":8,"name":"Franky","epithet":"Cyborg Franky","crew":"Straw Hat Pirates","position":"Shipwright","origin":"South Blue","hometown":"Water 7","devilFruit":null,"bounty":"394,000,000 berries","age":36,"birthday":"March 9th","height":"240 cm","bloodType":"XF","status":"Alive","fighting_style":["Cyborg Combat","Shipwright techniques"],"haki":null,"techniques":["Coup de Vent","Strong Right","Radical Beam","General Franky"],"family":["Tom (Surrogate Father, deceased)","Iceburg (Surrogate Brother)","Kokoro (Family Friend)"],"personality":"Eccentric, emotional, and passionate about ships. Known for his 'super' catchphrase and love of cola.","dream":"To build a ship that can sail around the world and see it fulfill that dream","allies":["Tom's Workers","Galley-La Company","Vegapunk"],"enemies":["CP9","Spandam","World Government"],"weapons":["Cyborg body modifications","Battle Franky vehicles"],"background":"Former leader of the Franky Family, became a cyborg after being hit by a sea train.","achievements":["Built the Thousand Sunny","Survived being hit by a sea train","Helped rescue Robin from Enies Lobby","Upgraded himself with Vegapunk's technology"],"hobbies":"Building ships and weapons, drinking cola, posing","quotes":["SUPER!","A man should live with dignity!","This week I'm feeling... SUPER!"],"appearance":"Large muscular cyborg with blue hair, sunglasses, speedo, and robotic arms.","weaknesses":["Needs cola for fuel","Back is vulnerable (can't reach it)"],"voice_actor":{"japanese":"Kazuki Yao","english":"Patrick Seitz"},"first_appearance":"Chapter 329","laugh":"Ahahahaha"},{"id":9,"name":"Brook","epithet":"Soul King Brook","crew":"Straw Hat Pirates","position":"Musician","origin":"West Blue","hometown":"Unknown","devilFruit":{"name":"Yomi Yomi no Mi","type":"Paramecia","englishName":"Revive-Revive Fruit"},"bounty":"383,000,000 berries","age":90,"birthday":"April 3rd","height":"277 cm","bloodType":"X","status":"Undead","fighting_style":["Soul-based attacks","Swordsmanship"],"haki":null,"techniques":["Soul Solid","Nemuriuta Flanc","Yohohoho Skull Joke","Soul King's Concert"],"family":["Rumbar Pirates (Former Crew, deceased)"],"personality":"Cheerful, polite, and perverted. Makes skeleton-related jokes and loves music.","dream":"To reunite with Laboon the whale at Reverse Mountain","allies":["Laboon","Long Ring Long Land inhabitants"],"enemies":["Gecko Moria","Charlotte Linlin"],"weapons":["Soul Solid (sword)","Violin"],"background":"Former member of the Rumbar Pirates who died and was revived by his Devil Fruit power.","achievements":["Survived 50 years alone","Became a world-famous musician","Infiltrated Big Mom's territory","Helped defeat Big Mom"],"hobbies":"Playing music, telling jokes, asking to see panties","quotes":["Yohohoho!","May I see your panties?","I'm so happy I could die! But I'm already dead! Yohohoho!"],"appearance":"Tall skeleton wearing a suit, top hat, and afro.","weaknesses":["Salt","Physical attacks to bones","Mirrors"],"voice_actor":{"japanese":"Cho","english":"Ian Sinclair"},"first_appearance":"Chapter 442","laugh":"Yohohoho"},{"id":10,"name":"Jinbe","epithet":"First Son of the Sea Jinbe","crew":"Straw Hat Pirates","position":"Helmsman","origin":"Grand Line","hometown":"Fish-Man Island","devilFruit":null,"bounty":"1,100,000,000 berries","age":46,"birthday":"April 2nd","height":"301 cm","bloodType":"F","status":"Alive","fighting_style":["Fish-Man Karate","Fish-Man Jujutsu"],"haki":["Armament Haki","Observation Haki"],"techniques":["Fish-Man Karate Secret Art: Buraikan","Shark Skin Palm Bottom","Ocean Current Shoulder Throw","Water Shot"],"family":["Fish-Man Island residents (Community)"],"personality":"Honorable, wise, and protective. Known for his strong moral compass and loyalty.","dream":"To fulfill his promise to Whitebeard and protect Fish-Man Island","allies":["Whitebeard Pirates (formerly)","Neptune","Otohime (deceased)"],"enemies":["Arlong (formerly)","Big Mom Pirates (formerly)","World Government"],"weapons":["Fish-Man Karate","Water manipulation"],"background":"Former captain of the Sun Pirates and Warlord of the Sea, dedicated to fish-man and human coexistence.","achievements":["Former Warlord of the Sea","Captain of the Sun Pirates","Helped Luffy escape Impel Down","Protected Luffy during Marineford War"],"hobbies":"Swimming, meditation, helping others","quotes":["I have something I must do, even if it costs me my life!","Humans and fish-men can coexist!","A man should keep his promises!"],"appearance":"Large blue whale shark fish-man, yellow kimono with wave patterns.","weaknesses":["Loyalty can be exploited","Overly honorable"],"voice_actor":{"japanese":"Katsuhisa Houki","english":"Daniel Baugh"},"first_appearance":"Chapter 528","laugh":"Keh keh keh"},{"id":11,"name":"Gol D. Roger","epithet":"Pirate King","crew":"Roger Pirates","position":"Captain","origin":"East Blue","hometown":"Loguetown","devilFruit":null,"bounty":"5,564,800,000 berries","age":53,"birthday":"December 31st","height":"274 cm","bloodType":"S","status":"Deceased","fighting_style":["Swordsmanship","Haki"],"haki":["Armament Haki","Observation Haki","Conqueror's Haki"],"techniques":["Divine Departure","Roger's Supreme King's Haki"],"family":["Portgas D. Rouge (Lover, deceased)","Portgas D. Ace (Son, deceased)"],"personality":"Charismatic, adventurous, and free-spirited. Known for his infectious laughter and love of adventure.","dream":"To explore the entire world and find the ultimate treasure","allies":["Silvers Rayleigh","Whitebeard","Monkey D. Garp"],"enemies":["World Government","Marines","Rocks Pirates"],"weapons":["Ace (Supreme Grade Sword)"],"background":"The only person to conquer the Grand Line and find the legendary treasure One Piece.","achievements":["Conquered the Grand Line","Found the One Piece","Started the Great Pirate Era","Defeated the Rocks Pirates"],"hobbies":"Adventure, treasure hunting, partying","quotes":["My treasure? If you want it, you can have it! Search for it! I left it all in that place!","Inherited will, the destiny of age, the dreams of people. These are things that cannot be stopped!","I'm not gonna die, partner!"],"appearance":"Black hair, thick mustache, red captain's coat.","weaknesses":["Incurable disease","Reckless nature"],"voice_actor":{"japanese":"Chikao Ohtsuka","english":"Sean Hennigan"},"first_appearance":"Chapter 1","laugh":"Gahahaha"},{"id":12,"name":"Edward Newgate","epithet":"Whitebeard","crew":"Whitebeard Pirates","position":"Captain","origin":"Grand Line","hometown":"Sphinx Island","devilFruit":{"name":"Gura Gura no Mi","type":"Paramecia","englishName":"Tremor-Tremor Fruit"},"bounty":"5,046,000,000 berries","age":72,"birthday":"April 6th","height":"666 cm","bloodType":"F","status":"Deceased","fighting_style":["Devil Fruit Combat","Haki","Bisento"],"haki":["Armament Haki","Observation Haki","Conqueror's Haki"],"techniques":["Earthquake attacks","Air Quakes","Seaquakes","Shima Yurashi"],"family":["Whitebeard Pirates (Adopted Sons)","Portgas D. Ace (Adopted Son, deceased)","Marco (Adopted Son)"],"personality":"Protective, honorable, and caring towards his crew whom he considers family.","dream":"To have a family and protect them","allies":["Roger Pirates","Red Hair Pirates","Revolutionary Army"],"enemies":["Marines","Blackbeard Pirates","World Government"],"weapons":["Murakumogiri (Supreme Grade Bisento)"],"background":"Strongest man in the world and one of the Four Emperors, considered Roger's greatest rival.","achievements":["Strongest man in the world","One of the Four Emperors","Nearly destroyed Marineford","Protected Fish-Man Island for decades"],"hobbies":"Caring for his crew family, drinking sake","quotes":["A man's dream never ends!","Family is the most important thing in the world!","One Piece does exist!"],"appearance":"Massive man with white crescent-shaped mustache, numerous scars, medical equipment attached.","weaknesses":["Old age","Illness","Heart condition"],"voice_actor":{"japanese":"Kinryu Arimoto","english":"R. Bruce Elliott"},"first_appearance":"Chapter 234","laugh":"Gurararara"}]}
+{
+  "status": 200,
+  "body": [
+    {
+      "id": 1,
+      "name": "Monkey D. Luffy",
+      "epithet": "Straw Hat Luffy",
+      "crew": "Straw Hat Pirates",
+      "position": "Captain",
+      "origin": "East Blue",
+      "hometown": "Foosha Village",
+      "devilFruit": {
+        "name": "Gomu Gomu no Mi",
+        "type": "Paramecia",
+        "englishName": "Gum-Gum Fruit"
+      },
+      "bounty": "3,000,000,000 berries",
+      "age": 19,
+      "birthday": "May 5th",
+      "height": "174 cm",
+      "bloodType": "F",
+      "status": "Alive",
+      "fighting_style": [
+        "Devil Fruit Combat",
+        "Haki"
+      ],
+      "haki": [
+        "Armament Haki",
+        "Observation Haki",
+        "Conqueror's Haki"
+      ],
+      "techniques": [
+        "Gum-Gum Pistol",
+        "Gum-Gum Gatling",
+        "Gear Second",
+        "Gear Third",
+        "Gear Fourth: Boundman",
+        "Gear Fourth: Tankman",
+        "Gear Fourth: Snakeman",
+        "Gear Fifth"
+      ],
+      "family": [
+        "Monkey D. Garp (Grandfather)",
+        "Monkey D. Dragon (Father)",
+        "Portgas D. Ace (Sworn Brother)",
+        "Sabo (Sworn Brother)"
+      ],
+      "personality": "Carefree, determined, loyal, and adventurous. Known for his infectious optimism and strong sense of justice.",
+      "dream": "To become the Pirate King and find the One Piece",
+      "allies": [
+        "Red-Haired Shanks",
+        "Trafalgar Law",
+        "Jinbe",
+        "Boa Hancock"
+      ],
+      "enemies": [
+        "Marshall D. Teach",
+        "Akainu",
+        "Big Mom",
+        "Kaido",
+        "World Government"
+      ],
+      "weapons": [
+        "Fists",
+        "Straw Hat (symbolic)"
+      ],
+      "background": "Inspired by Red-Haired Shanks to become a pirate, Luffy sets out to sea to find the legendary treasure One Piece.",
+      "achievements": [
+        "Defeated Crocodile in Alabasta",
+        "Declared war on the World Government at Enies Lobby",
+        "Defeated Gecko Moria at Thriller Bark",
+        "Participated in the Marineford War",
+        "Defeated Charlotte Katakuri",
+        "Defeated Kaido in Wano",
+        "Became a Yonko"
+      ],
+      "hobbies": "Eating, sleeping, adventure",
+      "quotes": [
+        "I'm gonna be King of the Pirates!",
+        "A man's dream will never die!",
+        "I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean is the Pirate King!"
+      ],
+      "appearance": "Black hair, round black eyes, signature straw hat, red vest, blue shorts, and sandals.",
+      "weaknesses": [
+        "Sea water",
+        "Sea-Prism Stone",
+        "Extremely naive"
+      ],
+      "voice_actor": {
+        "japanese": "Mayumi Tanaka",
+        "english": "Colleen Clinkenbeard"
+      },
+      "first_appearance": "Chapter 1",
+      "laugh": "Shishishi"
+    },
+    {
+      "id": 2,
+      "name": "Roronoa Zoro",
+      "epithet": "Pirate Hunter Zoro",
+      "crew": "Straw Hat Pirates",
+      "position": "Combatant/Swordsman",
+      "origin": "East Blue",
+      "hometown": "Shimotsuki Village",
+      "devilFruit": null,
+      "bounty": "1,111,000,000 berries",
+      "age": 21,
+      "birthday": "November 11th",
+      "height": "181 cm",
+      "bloodType": "XF",
+      "status": "Alive",
+      "fighting_style": [
+        "Three Sword Style",
+        "Haki"
+      ],
+      "haki": [
+        "Armament Haki",
+        "Observation Haki",
+        "Conqueror's Haki"
+      ],
+      "techniques": [
+        "Santoryu Ogi: Sanzen Sekai",
+        "Kyutoryu: Asura",
+        "Ittoryu Iai: Shishi Sonson",
+        "Nitoryu Iai: Rashomon",
+        "King of Hell Three Sword Style"
+      ],
+      "family": [
+        "Shimotsuki Kozaburo (Great-Great-Grandfather)",
+        "Shimotsuki Ushimaru (Father, deceased)"
+      ],
+      "personality": "Serious, determined, and loyal. Has a terrible sense of direction but unwavering dedication to his dream.",
+      "dream": "To become the world's greatest swordsman",
+      "allies": [
+        "Dracule Mihawk",
+        "Perona",
+        "Shimotsuki Yasuie"
+      ],
+      "enemies": [
+        "Dracule Mihawk (rival)",
+        "King the Wildfire",
+        "Mr. 1"
+      ],
+      "weapons": [
+        "Wado Ichimonji (Great Grade)",
+        "Sandai Kitetsu (Grade)",
+        "Enma (Great Grade)"
+      ],
+      "background": "After his childhood friend Kuina died, Zoro vowed to become the world's greatest swordsman and carry on her dream as well.",
+      "achievements": [
+        "Defeated 100 bounty hunters at Whisky Peak",
+        "Cut through steel against Mr. 1",
+        "Survived Kuma's pain bubble from Luffy",
+        "Defeated King the Wildfire",
+        "Unlocked Conqueror's Haki"
+      ],
+      "hobbies": "Training, sleeping, drinking sake",
+      "quotes": [
+        "I'm going to be the world's greatest swordsman! All I have left is my destiny! My name may be infamous...but it's gonna shake the world!",
+        "Nothing happened.",
+        "If I can't even protect my captain's dream, then whatever ambition I have is nothing but talk!"
+      ],
+      "appearance": "Green hair, black bandana, muscular build, three earrings on left ear, scar over left eye.",
+      "weaknesses": [
+        "Terrible sense of direction",
+        "Alcohol tolerance"
+      ],
+      "voice_actor": {
+        "japanese": "Kazuya Nakai",
+        "english": "Christopher Sabat"
+      },
+      "first_appearance": "Chapter 3",
+      "laugh": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Nami",
+      "epithet": "Cat Burglar Nami",
+      "crew": "Straw Hat Pirates",
+      "position": "Navigator",
+      "origin": "East Blue",
+      "hometown": "Cocoyasi Village",
+      "devilFruit": null,
+      "bounty": "366,000,000 berries",
+      "age": 20,
+      "birthday": "July 3rd",
+      "height": "170 cm",
+      "bloodType": "X",
+      "status": "Alive",
+      "fighting_style": [
+        "Clima-Tact Combat",
+        "Weather Manipulation"
+      ],
+      "haki": null,
+      "techniques": [
+        "Thunder Lance Tempo",
+        "Mirage Tempo",
+        "Thunder Breed Tempo",
+        "Zeus Breeze Tempo"
+      ],
+      "family": [
+        "Bellemere (Adoptive Mother, deceased)",
+        "Nojiko (Adoptive Sister)"
+      ],
+      "personality": "Greedy, intelligent, and caring. Excellent at navigation and weather prediction.",
+      "dream": "To draw a complete map of the world",
+      "allies": [
+        "Zeus (Homie)",
+        "Vivi",
+        "Shirahoshi"
+      ],
+      "enemies": [
+        "Arlong",
+        "Enel",
+        "Big Mom"
+      ],
+      "weapons": [
+        "Clima-Tact",
+        "Perfect Clima-Tact",
+        "Sorcery Clima-Tact"
+      ],
+      "background": "Former thief who stole from pirates to buy back her village from the Arlong Pirates.",
+      "achievements": [
+        "Freed Cocoyasi Village from Arlong",
+        "Navigated through the Grand Line",
+        "Defeated Kalifa with Mirage Tempo",
+        "Tamed Zeus as her partner"
+      ],
+      "hobbies": "Drawing maps, shopping, taking care of tangerine trees",
+      "quotes": [
+        "I want to draw a map of the entire world!",
+        "Happiness punch!",
+        "Money is the best thing in the world!"
+      ],
+      "appearance": "Orange hair, brown eyes, often wears revealing outfits, has a tattoo on her left shoulder.",
+      "weaknesses": [
+        "Physical combat without weapons",
+        "Greed"
+      ],
+      "voice_actor": {
+        "japanese": "Akemi Okamura",
+        "english": "Luci Christian"
+      },
+      "first_appearance": "Chapter 8",
+      "laugh": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Usopp",
+      "epithet": "God Usopp",
+      "crew": "Straw Hat Pirates",
+      "position": "Sniper",
+      "origin": "East Blue",
+      "hometown": "Syrup Village",
+      "devilFruit": null,
+      "bounty": "500,000,000 berries",
+      "age": 19,
+      "birthday": "April 1st",
+      "height": "176 cm",
+      "bloodType": "S",
+      "status": "Alive",
+      "fighting_style": [
+        "Sniping",
+        "Trickery",
+        "Pop Greens"
+      ],
+      "haki": [
+        "Observation Haki"
+      ],
+      "techniques": [
+        "Usopp Hammer",
+        "Exploding Star",
+        "Green Star: Devil",
+        "Special Attack: Humandrake"
+      ],
+      "family": [
+        "Yasopp (Father)",
+        "Banchina (Mother, deceased)"
+      ],
+      "personality": "Cowardly but brave when needed, creative, and a natural storyteller. Known for his elaborate lies.",
+      "dream": "To become a brave warrior of the sea",
+      "allies": [
+        "Kaya",
+        "Going Merry (ship)",
+        "Heracles"
+      ],
+      "enemies": [
+        "Kuro",
+        "Mr. 4 and Miss Merry Christmas",
+        "Perona"
+      ],
+      "weapons": [
+        "Kuro Kabuto",
+        "Kabuto",
+        "Black Kabuto",
+        "Pop Greens"
+      ],
+      "background": "Son of the Red Hair Pirates' sniper Yasopp, grew up telling tall tales in his village.",
+      "achievements": [
+        "Defeated Daddy Masterson in a duel",
+        "Sniped the World Government flag at Enies Lobby",
+        "Defeated Sugar and Trebol in Dressrosa",
+        "Became known as 'God Usopp'"
+      ],
+      "hobbies": "Inventing, telling stories, fishing",
+      "quotes": [
+        "I've got 8,000 followers!",
+        "I am the sniper king!",
+        "A man should never make a woman walk alone at night!"
+      ],
+      "appearance": "Long black curly hair, long nose, tan skin, goggles on forehead.",
+      "weaknesses": [
+        "Cowardice",
+        "Physical strength",
+        "Tendency to lie"
+      ],
+      "voice_actor": {
+        "japanese": "Kappei Yamaguchi",
+        "english": "Sonny Strait"
+      },
+      "first_appearance": "Chapter 23",
+      "laugh": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Sanji",
+      "epithet": "Black Leg Sanji",
+      "crew": "Straw Hat Pirates",
+      "position": "Cook",
+      "origin": "North Blue",
+      "hometown": "Germa Kingdom",
+      "devilFruit": null,
+      "bounty": "1,032,000,000 berries",
+      "age": 21,
+      "birthday": "March 2nd",
+      "height": "180 cm",
+      "bloodType": "S RH-",
+      "status": "Alive",
+      "fighting_style": [
+        "Black Leg Style",
+        "Haki",
+        "Germa Technology"
+      ],
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "techniques": [
+        "Diable Jambe",
+        "Hell Memories",
+        "Ifrit Jambe",
+        "Sky Walk",
+        "Blue Walk"
+      ],
+      "family": [
+        "Vinsmoke Judge (Father)",
+        "Vinsmoke Sora (Mother, deceased)",
+        "Vinsmoke Reiju (Sister)",
+        "Vinsmoke Ichiji (Brother)",
+        "Vinsmoke Niji (Brother)",
+        "Vinsmoke Yonji (Brother)",
+        "Zeff (Surrogate Father)"
+      ],
+      "personality": "Chivalrous, passionate, and perverted. Never hits women and has an unwavering dedication to cooking.",
+      "dream": "To find the All Blue, a legendary sea where all fish from every ocean gather",
+      "allies": [
+        "Zeff",
+        "Viola",
+        "Pudding"
+      ],
+      "enemies": [
+        "Vinsmoke Judge",
+        "Queen the Plague",
+        "Absalom"
+      ],
+      "weapons": [
+        "Legs/Kicks",
+        "Raid Suit (formerly)"
+      ],
+      "background": "Third son of the Vinsmoke family, raised by pirate chef Zeff after being stranded on a rock.",
+      "achievements": [
+        "Saved Luffy from starvation",
+        "Infiltrated Enies Lobby",
+        "Survived Big Mom's territory",
+        "Defeated Queen the Plague",
+        "Awakened Germa modifications"
+      ],
+      "hobbies": "Cooking, smoking, flirting with women",
+      "quotes": [
+        "I'll never kick a woman, even if it means my death!",
+        "A cook's hands are his life!",
+        "All Blue... it has to exist!"
+      ],
+      "appearance": "Blonde hair covering right eye, goatee, black suit, often smoking cigarettes.",
+      "weaknesses": [
+        "Cannot hit women",
+        "Nosebleeds around beautiful women"
+      ],
+      "voice_actor": {
+        "japanese": "Hiroaki Hirata",
+        "english": "Eric Vale"
+      },
+      "first_appearance": "Chapter 43",
+      "laugh": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Tony Tony Chopper",
+      "epithet": "Cotton Candy Lover Chopper",
+      "crew": "Straw Hat Pirates",
+      "position": "Doctor",
+      "origin": "Grand Line",
+      "hometown": "Drum Island",
+      "devilFruit": {
+        "name": "Hito Hito no Mi",
+        "type": "Zoan",
+        "englishName": "Human-Human Fruit"
+      },
+      "bounty": "1,000 berries",
+      "age": 17,
+      "birthday": "December 24th",
+      "height": "90 cm",
+      "bloodType": "X",
+      "status": "Alive",
+      "fighting_style": [
+        "Zoan Transformations",
+        "Medical Combat"
+      ],
+      "haki": null,
+      "techniques": [
+        "Rumble Ball",
+        "Horn Point",
+        "Heavy Point",
+        "Guard Point",
+        "Kung Fu Point",
+        "Monster Point"
+      ],
+      "family": [
+        "Dr. Hiriluk (Adoptive Father, deceased)",
+        "Dr. Kureha (Teacher/Mother Figure)"
+      ],
+      "personality": "Innocent, kind-hearted, and easily fooled. Dedicated to helping others as a doctor.",
+      "dream": "To become a doctor capable of curing any disease",
+      "allies": [
+        "Dr. Kureha",
+        "Dalton",
+        "Milky"
+      ],
+      "enemies": [
+        "Wapol",
+        "Queen the Plague"
+      ],
+      "weapons": [
+        "Rumble Ball",
+        "Medical knowledge"
+      ],
+      "background": "A reindeer who ate the Human-Human Fruit, trained as a doctor by Dr. Hiriluk and Dr. Kureha.",
+      "achievements": [
+        "Helped liberate Drum Island",
+        "Developed antidotes for various poisons",
+        "Mastered Monster Point control",
+        "Created antibodies for Queen's viruses"
+      ],
+      "hobbies": "Studying medicine, eating cotton candy, dancing",
+      "quotes": [
+        "I'm not a tanuki! I'm a reindeer!",
+        "When do people die? When they're shot through the heart with a pistol? No... It's when they're forgotten!",
+        "Even if I'm weak, there are things I can protect!"
+      ],
+      "appearance": "Small blue-nosed reindeer, pink hat, often walks on hind legs.",
+      "weaknesses": [
+        "Rumble Ball side effects",
+        "Physical weakness in Brain Point"
+      ],
+      "voice_actor": {
+        "japanese": "Ikue Otani",
+        "english": "Brina Palencia"
+      },
+      "first_appearance": "Chapter 134",
+      "laugh": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Nico Robin",
+      "epithet": "Devil Child Robin",
+      "crew": "Straw Hat Pirates",
+      "position": "Archaeologist",
+      "origin": "West Blue",
+      "hometown": "Ohara",
+      "devilFruit": {
+        "name": "Hana Hana no Mi",
+        "type": "Paramecia",
+        "englishName": "Flower-Flower Fruit"
+      },
+      "bounty": "930,000,000 berries",
+      "age": 30,
+      "birthday": "February 6th",
+      "height": "188 cm",
+      "bloodType": "S",
+      "status": "Alive",
+      "fighting_style": [
+        "Devil Fruit Combat",
+        "Assassination techniques"
+      ],
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "techniques": [
+        "Mil Fleur: Gigantesco Mano",
+        "Demonio Fleur",
+        "Clutch",
+        "Spider Net"
+      ],
+      "family": [
+        "Nico Olvia (Mother, deceased)",
+        "Professor Clover (Surrogate Father, deceased)"
+      ],
+      "personality": "Calm, intelligent, and mysterious. Often makes morbid observations but deeply cares for her friends.",
+      "dream": "To find the Rio Poneglyph and learn the true history of the world",
+      "allies": [
+        "Jaguar D. Saul (deceased)",
+        "Crocodile (formerly)",
+        "Revolutionary Army"
+      ],
+      "enemies": [
+        "World Government",
+        "CP9",
+        "Spandam"
+      ],
+      "weapons": [
+        "Devil Fruit powers",
+        "Archaeological knowledge"
+      ],
+      "background": "Last survivor of Ohara, hunted by the World Government for her ability to read Poneglyphs.",
+      "achievements": [
+        "Only person alive who can read Poneglyphs",
+        "Survived the Ohara Incident",
+        "Helped uncover Alabasta's history",
+        "Declared war on the World Government"
+      ],
+      "hobbies": "Reading, archaeology, studying history",
+      "quotes": [
+        "I want to live!",
+        "The scholars of Ohara taught me that no matter how difficult the research, you must never give up.",
+        "History is written by the victors, but the truth will always remain."
+      ],
+      "appearance": "Long black hair, blue eyes, tall and slender, often wears dark clothing.",
+      "weaknesses": [
+        "Sea water",
+        "Sea-Prism Stone",
+        "Emotional trauma"
+      ],
+      "voice_actor": {
+        "japanese": "Yuriko Yamaguchi",
+        "english": "Stephanie Young"
+      },
+      "first_appearance": "Chapter 114",
+      "laugh": "Dereshishi"
+    },
+    {
+      "id": 8,
+      "name": "Franky",
+      "epithet": "Cyborg Franky",
+      "crew": "Straw Hat Pirates",
+      "position": "Shipwright",
+      "origin": "South Blue",
+      "hometown": "Water 7",
+      "devilFruit": null,
+      "bounty": "394,000,000 berries",
+      "age": 36,
+      "birthday": "March 9th",
+      "height": "240 cm",
+      "bloodType": "XF",
+      "status": "Alive",
+      "fighting_style": [
+        "Cyborg Combat",
+        "Shipwright techniques"
+      ],
+      "haki": null,
+      "techniques": [
+        "Coup de Vent",
+        "Strong Right",
+        "Radical Beam",
+        "General Franky"
+      ],
+      "family": [
+        "Tom (Surrogate Father, deceased)",
+        "Iceburg (Surrogate Brother)",
+        "Kokoro (Family Friend)"
+      ],
+      "personality": "Eccentric, emotional, and passionate about ships. Known for his 'super' catchphrase and love of cola.",
+      "dream": "To build a ship that can sail around the world and see it fulfill that dream",
+      "allies": [
+        "Tom's Workers",
+        "Galley-La Company",
+        "Vegapunk"
+      ],
+      "enemies": [
+        "CP9",
+        "Spandam",
+        "World Government"
+      ],
+      "weapons": [
+        "Cyborg body modifications",
+        "Battle Franky vehicles"
+      ],
+      "background": "Former leader of the Franky Family, became a cyborg after being hit by a sea train.",
+      "achievements": [
+        "Built the Thousand Sunny",
+        "Survived being hit by a sea train",
+        "Helped rescue Robin from Enies Lobby",
+        "Upgraded himself with Vegapunk's technology"
+      ],
+      "hobbies": "Building ships and weapons, drinking cola, posing",
+      "quotes": [
+        "SUPER!",
+        "A man should live with dignity!",
+        "This week I'm feeling... SUPER!"
+      ],
+      "appearance": "Large muscular cyborg with blue hair, sunglasses, speedo, and robotic arms.",
+      "weaknesses": [
+        "Needs cola for fuel",
+        "Back is vulnerable (can't reach it)"
+      ],
+      "voice_actor": {
+        "japanese": "Kazuki Yao",
+        "english": "Patrick Seitz"
+      },
+      "first_appearance": "Chapter 329",
+      "laugh": "Ahahahaha"
+    },
+    {
+      "id": 9,
+      "name": "Brook",
+      "epithet": "Soul King Brook",
+      "crew": "Straw Hat Pirates",
+      "position": "Musician",
+      "origin": "West Blue",
+      "hometown": "Unknown",
+      "devilFruit": {
+        "name": "Yomi Yomi no Mi",
+        "type": "Paramecia",
+        "englishName": "Revive-Revive Fruit"
+      },
+      "bounty": "383,000,000 berries",
+      "age": 90,
+      "birthday": "April 3rd",
+      "height": "277 cm",
+      "bloodType": "X",
+      "status": "Undead",
+      "fighting_style": [
+        "Soul-based attacks",
+        "Swordsmanship"
+      ],
+      "haki": null,
+      "techniques": [
+        "Soul Solid",
+        "Nemuriuta Flanc",
+        "Yohohoho Skull Joke",
+        "Soul King's Concert"
+      ],
+      "family": [
+        "Rumbar Pirates (Former Crew, deceased)"
+      ],
+      "personality": "Cheerful, polite, and perverted. Makes skeleton-related jokes and loves music.",
+      "dream": "To reunite with Laboon the whale at Reverse Mountain",
+      "allies": [
+        "Laboon",
+        "Long Ring Long Land inhabitants"
+      ],
+      "enemies": [
+        "Gecko Moria",
+        "Charlotte Linlin"
+      ],
+      "weapons": [
+        "Soul Solid (sword)",
+        "Violin"
+      ],
+      "background": "Former member of the Rumbar Pirates who died and was revived by his Devil Fruit power.",
+      "achievements": [
+        "Survived 50 years alone",
+        "Became a world-famous musician",
+        "Infiltrated Big Mom's territory",
+        "Helped defeat Big Mom"
+      ],
+      "hobbies": "Playing music, telling jokes, asking to see panties",
+      "quotes": [
+        "Yohohoho!",
+        "May I see your panties?",
+        "I'm so happy I could die! But I'm already dead! Yohohoho!"
+      ],
+      "appearance": "Tall skeleton wearing a suit, top hat, and afro.",
+      "weaknesses": [
+        "Salt",
+        "Physical attacks to bones",
+        "Mirrors"
+      ],
+      "voice_actor": {
+        "japanese": "Cho",
+        "english": "Ian Sinclair"
+      },
+      "first_appearance": "Chapter 442",
+      "laugh": "Yohohoho"
+    },
+    {
+      "id": 10,
+      "name": "Jinbe",
+      "epithet": "First Son of the Sea Jinbe",
+      "crew": "Straw Hat Pirates",
+      "position": "Helmsman",
+      "origin": "Grand Line",
+      "hometown": "Fish-Man Island",
+      "devilFruit": null,
+      "bounty": "1,100,000,000 berries",
+      "age": 46,
+      "birthday": "April 2nd",
+      "height": "301 cm",
+      "bloodType": "F",
+      "status": "Alive",
+      "fighting_style": [
+        "Fish-Man Karate",
+        "Fish-Man Jujutsu"
+      ],
+      "haki": [
+        "Armament Haki",
+        "Observation Haki"
+      ],
+      "techniques": [
+        "Fish-Man Karate Secret Art: Buraikan",
+        "Shark Skin Palm Bottom",
+        "Ocean Current Shoulder Throw",
+        "Water Shot"
+      ],
+      "family": [
+        "Fish-Man Island residents (Community)"
+      ],
+      "personality": "Honorable, wise, and protective. Known for his strong moral compass and loyalty.",
+      "dream": "To fulfill his promise to Whitebeard and protect Fish-Man Island",
+      "allies": [
+        "Whitebeard Pirates (formerly)",
+        "Neptune",
+        "Otohime (deceased)"
+      ],
+      "enemies": [
+        "Arlong (formerly)",
+        "Big Mom Pirates (formerly)",
+        "World Government"
+      ],
+      "weapons": [
+        "Fish-Man Karate",
+        "Water manipulation"
+      ],
+      "background": "Former captain of the Sun Pirates and Warlord of the Sea, dedicated to fish-man and human coexistence.",
+      "achievements": [
+        "Former Warlord of the Sea",
+        "Captain of the Sun Pirates",
+        "Helped Luffy escape Impel Down",
+        "Protected Luffy during Marineford War"
+      ],
+      "hobbies": "Swimming, meditation, helping others",
+      "quotes": [
+        "I have something I must do, even if it costs me my life!",
+        "Humans and fish-men can coexist!",
+        "A man should keep his promises!"
+      ],
+      "appearance": "Large blue whale shark fish-man, yellow kimono with wave patterns.",
+      "weaknesses": [
+        "Loyalty can be exploited",
+        "Overly honorable"
+      ],
+      "voice_actor": {
+        "japanese": "Katsuhisa Houki",
+        "english": "Daniel Baugh"
+      },
+      "first_appearance": "Chapter 528",
+      "laugh": "Keh keh keh"
+    },
+    {
+      "id": 11,
+      "name": "Gol D. Roger",
+      "epithet": "Pirate King",
+      "crew": "Roger Pirates",
+      "position": "Captain",
+      "origin": "East Blue",
+      "hometown": "Loguetown",
+      "devilFruit": null,
+      "bounty": "5,564,800,000 berries",
+      "age": 53,
+      "birthday": "December 31st",
+      "height": "274 cm",
+      "bloodType": "S",
+      "status": "Deceased",
+      "fighting_style": [
+        "Swordsmanship",
+        "Haki"
+      ],
+      "haki": [
+        "Armament Haki",
+        "Observation Haki",
+        "Conqueror's Haki"
+      ],
+      "techniques": [
+        "Divine Departure",
+        "Roger's Supreme King's Haki"
+      ],
+      "family": [
+        "Portgas D. Rouge (Lover, deceased)",
+        "Portgas D. Ace (Son, deceased)"
+      ],
+      "personality": "Charismatic, adventurous, and free-spirited. Known for his infectious laughter and love of adventure.",
+      "dream": "To explore the entire world and find the ultimate treasure",
+      "allies": [
+        "Silvers Rayleigh",
+        "Whitebeard",
+        "Monkey D. Garp"
+      ],
+      "enemies": [
+        "World Government",
+        "Marines",
+        "Rocks Pirates"
+      ],
+      "weapons": [
+        "Ace (Supreme Grade Sword)"
+      ],
+      "background": "The only person to conquer the Grand Line and find the legendary treasure One Piece.",
+      "achievements": [
+        "Conquered the Grand Line",
+        "Found the One Piece",
+        "Started the Great Pirate Era",
+        "Defeated the Rocks Pirates"
+      ],
+      "hobbies": "Adventure, treasure hunting, partying",
+      "quotes": [
+        "My treasure? If you want it, you can have it! Search for it! I left it all in that place!",
+        "Inherited will, the destiny of age, the dreams of people. These are things that cannot be stopped!",
+        "I'm not gonna die, partner!"
+      ],
+      "appearance": "Black hair, thick mustache, red captain's coat.",
+      "weaknesses": [
+        "Incurable disease",
+        "Reckless nature"
+      ],
+      "voice_actor": {
+        "japanese": "Chikao Ohtsuka",
+        "english": "Sean Hennigan"
+      },
+      "first_appearance": "Chapter 1",
+      "laugh": "Gahahaha"
+    },
+    {
+      "id": 12,
+      "name": "Edward Newgate",
+      "epithet": "Whitebeard",
+      "crew": "Whitebeard Pirates",
+      "position": "Captain",
+      "origin": "Grand Line",
+      "hometown": "Sphinx Island",
+      "devilFruit": {
+        "name": "Gura Gura no Mi",
+        "type": "Paramecia",
+        "englishName": "Tremor-Tremor Fruit"
+      },
+      "bounty": "5,046,000,000 berries",
+      "age": 72,
+      "birthday": "April 6th",
+      "height": "666 cm",
+      "bloodType": "F",
+      "status": "Deceased",
+      "fighting_style": [
+        "Devil Fruit Combat",
+        "Haki",
+        "Bisento"
+      ],
+      "haki": [
+        "Armament Haki",
+        "Observation Haki",
+        "Conqueror's Haki"
+      ],
+      "techniques": [
+        "Earthquake attacks",
+        "Air Quakes",
+        "Seaquakes",
+        "Shima Yurashi"
+      ],
+      "family": [
+        "Whitebeard Pirates (Adopted Sons)",
+        "Portgas D. Ace (Adopted Son, deceased)",
+        "Marco (Adopted Son)"
+      ],
+      "personality": "Protective, honorable, and caring towards his crew whom he considers family.",
+      "dream": "To have a family and protect them",
+      "allies": [
+        "Roger Pirates",
+        "Red Hair Pirates",
+        "Revolutionary Army"
+      ],
+      "enemies": [
+        "Marines",
+        "Blackbeard Pirates",
+        "World Government"
+      ],
+      "weapons": [
+        "Murakumogiri (Supreme Grade Bisento)"
+      ],
+      "background": "Strongest man in the world and one of the Four Emperors, considered Roger's greatest rival.",
+      "achievements": [
+        "Strongest man in the world",
+        "One of the Four Emperors",
+        "Nearly destroyed Marineford",
+        "Protected Fish-Man Island for decades"
+      ],
+      "hobbies": "Caring for his crew family, drinking sake",
+      "quotes": [
+        "A man's dream never ends!",
+        "Family is the most important thing in the world!",
+        "One Piece does exist!"
+      ],
+      "appearance": "Massive man with white crescent-shaped mustache, numerous scars, medical equipment attached.",
+      "weaknesses": [
+        "Old age",
+        "Illness",
+        "Heart condition"
+      ],
+      "voice_actor": {
+        "japanese": "Kinryu Arimoto",
+        "english": "R. Bruce Elliott"
+      },
+      "first_appearance": "Chapter 234",
+      "laugh": "Gurararara"
+    }
+  ]
+}
