@@ -4,7 +4,7 @@ Un juego de "¿Quién Es?" basado en los personajes de Attack on Titan, desarrol
 
 ### Elaborado por
 - Martín Cortés Buendia
-- José Ramón Parra Mancilla 
+- José Ramón Parra Mancilla \\
 Para la asignatura Desarrollo de Aplicaciones Móviles Nativas 
 - Profesor: Gabriel Hurtado Áviles
 
