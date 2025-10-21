@@ -1,11 +1,10 @@
 # Guess Who - Attack on Titan Edition
 
-Un juego de "¿Quién Es?" basado en los personajes de Attack on Titan, desarrollado en Flutter.
+Un juego de "Adivina ¿Quién Es?" basado en los personajes de Attack on Titan, desarrollado en Flutter.
 
 ### Elaborado por
 - Martín Cortés Buendia
-- José Ramón Parra Mancilla 
-Para la asignatura Desarrollo de Aplicaciones Móviles Nativas 
+- José Ramón Parra Mancilla
 - Profesor: Gabriel Hurtado Áviles
 
 ## Características
