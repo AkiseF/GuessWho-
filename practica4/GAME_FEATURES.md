@@ -48,6 +48,8 @@ Adivina el personaje secreto de tu oponente antes de que él adivine el tuyo.
 - **Tocar un personaje**: Abrir opciones (eliminar o adivinar)
 - **Carrusel de preguntas**: Deslizar para ver diferentes preguntas
 - **Modo Experto**: Usar flechas para navegar entre grids
+- **🌙 Botón Luna/Sol**: Cambiar entre modo claro y oscuro
+- **🎨 Botón Paleta**: Acceder al selector de temas y personalización
 
 ## 🏗️ Arquitectura del Proyecto
 
@@ -96,20 +98,45 @@ lib/
 - **Grid Navigation**: Sistema de carrusel para cambiar entre grids
 - **Visual Indicators**: Indicadores de grid actual y navegación
 
-## 🎨 Diseño Visual
+## 🎨 Sistema de Temas Avanzado
 
-### Temas
-- **Tema claro y oscuro**: Adaptable automáticamente al sistema
-- **Colores por dificultad**:
-  - 🟢 Verde: Fácil
-  - 🟡 Naranja: Medio  
-  - 🔴 Rojo: Difícil
-  - 🟣 Morado: Experto
+### Modo Claro/Oscuro
+- **Botón de Sol/Luna**: Ubicado en la esquina inferior derecha de la pantalla principal
+- **Control independiente**: El modo claro/oscuro es independiente del color de tema
+- **Persistencia**: La configuración se guarda automáticamente
+- **Fondos adaptativos**: 
+  - Modo claro: Fondo beige suave
+  - Modo oscuro: Fondo gris oscuro elegante
 
-### Responsive Design
-- **Grid adaptativo**: Se ajusta automáticamente a diferentes tamaños
-- **Carrusel de preguntas**: Navegación fluida por gestos
-- **Interfaz intuitiva**: Iconografía clara y comprensible
+### Temas de Color
+El juego incluye tres temas basados en las facciones de Attack on Titan:
+
+#### 🔴 Stationary Guard (Guardia Estacionaria)
+- **Color Principal**: Rojo carmesí (#AA281A)
+- **Inspiración**: La primera línea de defensa de las murallas
+- **Aplicación**: Cards, botones y elementos de interfaz
+
+#### 🔵 Scouting Legion (Legión de Reconocimiento)  
+- **Color Principal**: Azul naval (#10357B)
+- **Inspiración**: Los exploradores más valientes que salen de las murallas
+- **Aplicación**: Cards, botones y elementos de interfaz
+
+#### 🟢 Military Police (Policía Militar)
+- **Color Principal**: Verde militar (#1D4F34)
+- **Inspiración**: La élite que protege el interior de las murallas
+- **Aplicación**: Cards, botones y elementos de interfaz
+
+### Personalización Visual
+- **Cards Temáticas**: Todas las cards muestran acentos del color de tema seleccionado
+- **Bordes Sutiles**: Bordes y gradientes que reflejan el tema activo
+- **Iconografía**: Iconos específicos para cada facción
+- **Coherencia**: El tema se aplica consistentemente en toda la aplicación
+
+### Interfaz de Personalización
+- **Diálogo Centralizado**: Un solo diálogo para todas las opciones de personalización
+- **Switch Interactivo**: Toggle visual para el modo claro/oscuro
+- **Selector de Temas**: Vista previa visual de cada tema con iconos
+- **Descripción Contextual**: Nombres y descripciones de cada facción
 
 ## 📱 Instalación y Ejecución
 
